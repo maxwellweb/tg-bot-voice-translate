@@ -1,0 +1,6 @@
+python-telegram-bot
+openai-whisper
+translate
+python-dotenv
+elevenlabs
+numpy==1.26.4
